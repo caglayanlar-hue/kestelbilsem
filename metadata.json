@@ -1,0 +1,6 @@
+{
+  "name": "Aile Bağları: Aile Dediğin Platformu",
+  "description": "Aile içi iletişimi güçlendiren, haftalık toplantı tutanakları, Ben Dili rehberi, günlük etkinlikler ve 'Aile Dediğin' kitabı sohbet kılavuzu içeren interaktif aile platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
